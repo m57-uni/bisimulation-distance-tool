@@ -1,0 +1,12 @@
+ohne-GUI-für-evaluierung: diese Implementierung nutzte ich für meine Evaluierungen, weil
+die anderen Implementierungen leider nicht immer Fehlverhalten waren. Um falsche Werte
+vorzubeugen, führte ich die Evaluierung in einer Implemntierung ohne GUI durch.
+
+GUI-alt: Diese GUI fertigte ich vor einigen Monaten an. Diese Version ist stabil und
+da funktionieren die Berechnungen mit randomisierten Werten gut. Nur muss man das
+Verfahren im Code in der jeweiligen Methode einkommentieren
+
+GUI-neu: Diese GUI wollte ich diesen Monat fertigstellen, die wichtigsten Dinge funktionierten
+eigentlich, nur kam es irgendwann zu so vielem Fehlverhalten. Gerade am Ende der Arbeitszeit und
+zu der Zeit in der ich die privaten Hindernisse hatte kam es zu den Problemen,
+sodass ich die übrige Zeit nur für das Schreiben anwenden konnte.
